@@ -1,0 +1,127 @@
+header{
+    background-color: rgb(215, 235, 229);
+    height: 100px;
+    width: 1869px;
+    float: left;
+}
+nav{
+    background-color:lightcoral;
+    height: 70px;
+    width: 1869px;
+    clear: both;
+    
+}
+section{
+    background-color:gainsboro;
+    height: 500px;
+    width: 1500px;
+    float: left;
+}
+aside{
+    background-color: lightgreen;
+    height: 500px;
+    width: 368px;
+    float: left;
+}
+footer{
+    background-color: darkgrey;
+    height: 300px;
+    width: 1869px;
+float: left;
+}
+#m1{
+    height: 100px;
+    float: left;
+}
+#m2{
+    font-size: 40px;
+    float: left;
+    
+    margin-left: 820.5px;
+}
+#m3{
+    background-color: linen;
+    float: left;
+    margin-left: 500px;
+    margin-top: 25px; 
+    padding: 10px;
+    border-radius: 20px;
+}
+.mazz1{
+       list-style: none;
+       padding-top: 25px;
+}
+li{
+    display: inline;
+    padding: 30px;
+    
+}
+
+a{
+    text-decoration: none;
+    
+}
+#maaz55{
+    margin-left: 600px;
+}
+#kk1{
+    text-align: center;
+    
+}
+#k1{
+   border: 3px solid black;
+   width: 350px;
+   height: 300px;
+   line-height: 30px;
+   word-spacing: 7px;
+   float: left;
+   margin-left: 90px;
+   border-top-left-radius: 50px;
+   background-color: honeydew;
+   padding: 22px;
+
+}
+#k2{
+    border: 3px dotted blue;
+    width: 350px;
+    height: 300px;
+    line-height: 30px;
+    word-spacing: 7px;
+    float: left;
+    margin-left: 50px;
+    background-color: khaki;
+    padding: 22px;
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+
+
+}
+#k3{
+    background-image: url(waqas.png);
+    border: 3px solid black;
+    width: 350px;
+    height: 300px;
+    line-height: 30px;
+    word-spacing: 7px;
+    float: left;
+    margin-left: 50px;
+    background-size: cover;
+    padding: 22px;
+    border-top-right-radius: 50px;
+}
+#k4{
+    width: 400px;
+    height: 350px;
+    line-height: 30px;
+    word-spacing: 7px;
+    float: left;
+    margin-left: 130px;
+    font-size: 1cm;
+    margin-top: 10px;
+    
+}
+span{
+    color: green;
+}
+    
+
